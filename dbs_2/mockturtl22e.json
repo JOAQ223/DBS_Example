@@ -1,0 +1,506 @@
+[
+    {
+        "pnr": 0,
+        "hnr": 0,
+        "beginndatum": "2021-10-16",
+        "dauer": "08:51 pm",
+        "kosten": "1.498,23 €"
+    },
+    {
+        "pnr": 1,
+        "hnr": 1,
+        "beginndatum": "2021-07-02",
+        "dauer": "09:29 am",
+        "kosten": "7.368,92 €"
+    },
+    {
+        "pnr": 2,
+        "hnr": 2,
+        "beginndatum": "2021-07-28",
+        "dauer": "05:42 am",
+        "kosten": "4.953,54 €"
+    },
+    {
+        "pnr": 3,
+        "hnr": 3,
+        "beginndatum": "2022-02-05",
+        "dauer": "08:07 pm",
+        "kosten": "5.968,08 €"
+    },
+    {
+        "pnr": 4,
+        "hnr": 4,
+        "beginndatum": "2022-03-17",
+        "dauer": "04:52 am",
+        "kosten": "9.889,60 €"
+    },
+    {
+        "pnr": 5,
+        "hnr": 5,
+        "beginndatum": "2022-03-19",
+        "dauer": "07:05 am",
+        "kosten": "883,69 €"
+    },
+    {
+        "pnr": 6,
+        "hnr": 6,
+        "beginndatum": "2021-10-08",
+        "dauer": "06:28 am",
+        "kosten": "4.111,88 €"
+    },
+    {
+        "pnr": 7,
+        "hnr": 7,
+        "beginndatum": "2021-07-17",
+        "dauer": "04:04 am",
+        "kosten": "5.871,62 €"
+    },
+    {
+        "pnr": 8,
+        "hnr": 8,
+        "beginndatum": "2022-04-04",
+        "dauer": "01:34 am",
+        "kosten": "7.830,01 €"
+    },
+    {
+        "pnr": 9,
+        "hnr": 9,
+        "beginndatum": "2021-10-03",
+        "dauer": "07:31 pm",
+        "kosten": "5.220,68 €"
+    },
+    {
+        "pnr": 10,
+        "hnr": 10,
+        "beginndatum": "2022-01-25",
+        "dauer": "05:17 pm",
+        "kosten": "1.487,86 €"
+    },
+    {
+        "pnr": 11,
+        "hnr": 11,
+        "beginndatum": "2022-02-21",
+        "dauer": "01:17 pm",
+        "kosten": "7.633,26 €"
+    },
+    {
+        "pnr": 12,
+        "hnr": 12,
+        "beginndatum": "2022-04-23",
+        "dauer": "07:25 am",
+        "kosten": "8.709,76 €"
+    },
+    {
+        "pnr": 13,
+        "hnr": 13,
+        "beginndatum": "2021-11-29",
+        "dauer": "02:10 pm",
+        "kosten": "3.824,39 €"
+    },
+    {
+        "pnr": 14,
+        "hnr": 14,
+        "beginndatum": "2021-07-03",
+        "dauer": "02:00 pm",
+        "kosten": "4.462,01 €"
+    },
+    {
+        "pnr": 15,
+        "hnr": 15,
+        "beginndatum": "2022-02-07",
+        "dauer": "06:36 am",
+        "kosten": "9.694,91 €"
+    },
+    {
+        "pnr": 16,
+        "hnr": 16,
+        "beginndatum": "2021-10-08",
+        "dauer": "05:41 am",
+        "kosten": "4.053,73 €"
+    },
+    {
+        "pnr": 17,
+        "hnr": 17,
+        "beginndatum": "2021-07-04",
+        "dauer": "05:58 pm",
+        "kosten": "3.283,52 €"
+    },
+    {
+        "pnr": 18,
+        "hnr": 18,
+        "beginndatum": "2022-03-22",
+        "dauer": "04:12 pm",
+        "kosten": "2.382,78 €"
+    },
+    {
+        "pnr": 19,
+        "hnr": 19,
+        "beginndatum": "2022-02-23",
+        "dauer": "09:30 pm",
+        "kosten": "1.575,01 €"
+    },
+    {
+        "pnr": 20,
+        "hnr": 20,
+        "beginndatum": "2021-06-24",
+        "dauer": "08:38 am",
+        "kosten": "4.220,58 €"
+    },
+    {
+        "pnr": 21,
+        "hnr": 21,
+        "beginndatum": "2022-05-31",
+        "dauer": "12:43 pm",
+        "kosten": "4.177,15 €"
+    },
+    {
+        "pnr": 22,
+        "hnr": 22,
+        "beginndatum": "2021-07-14",
+        "dauer": "06:04 pm",
+        "kosten": "1.932,23 €"
+    },
+    {
+        "pnr": 23,
+        "hnr": 23,
+        "beginndatum": "2022-02-21",
+        "dauer": "01:35 pm",
+        "kosten": "3.631,69 €"
+    },
+    {
+        "pnr": 24,
+        "hnr": 24,
+        "beginndatum": "2021-08-10",
+        "dauer": "08:04 pm",
+        "kosten": "8.797,48 €"
+    },
+    {
+        "pnr": 25,
+        "hnr": 25,
+        "beginndatum": "2021-06-25",
+        "dauer": "12:28 pm",
+        "kosten": "6.494,57 €"
+    },
+    {
+        "pnr": 26,
+        "hnr": 26,
+        "beginndatum": "2022-05-07",
+        "dauer": "05:37 am",
+        "kosten": "4.152,05 €"
+    },
+    {
+        "pnr": 27,
+        "hnr": 27,
+        "beginndatum": "2021-12-25",
+        "dauer": "02:20 pm",
+        "kosten": "198,44 €"
+    },
+    {
+        "pnr": 28,
+        "hnr": 28,
+        "beginndatum": "2021-11-14",
+        "dauer": "01:05 pm",
+        "kosten": "4.830,80 €"
+    },
+    {
+        "pnr": 29,
+        "hnr": 29,
+        "beginndatum": "2021-08-14",
+        "dauer": "03:23 am",
+        "kosten": "365,93 €"
+    },
+    {
+        "pnr": 30,
+        "hnr": 30,
+        "beginndatum": "2021-06-23",
+        "dauer": "12:37 pm",
+        "kosten": "8.315,15 €"
+    },
+    {
+        "pnr": 31,
+        "hnr": 31,
+        "beginndatum": "2021-12-16",
+        "dauer": "09:08 pm",
+        "kosten": "4.739,50 €"
+    },
+    {
+        "pnr": 32,
+        "hnr": 32,
+        "beginndatum": "2021-11-03",
+        "dauer": "09:58 am",
+        "kosten": "6.720,00 €"
+    },
+    {
+        "pnr": 33,
+        "hnr": 33,
+        "beginndatum": "2021-07-02",
+        "dauer": "07:06 am",
+        "kosten": "6.720,01 €"
+    },
+    {
+        "pnr": 34,
+        "hnr": 34,
+        "beginndatum": "2022-02-27",
+        "dauer": "04:22 am",
+        "kosten": "4.624,92 €"
+    },
+    {
+        "pnr": 35,
+        "hnr": 35,
+        "beginndatum": "2022-03-07",
+        "dauer": "01:43 am",
+        "kosten": "5.997,08 €"
+    },
+    {
+        "pnr": 36,
+        "hnr": 36,
+        "beginndatum": "2021-11-16",
+        "dauer": "10:53 pm",
+        "kosten": "9.448,65 €"
+    },
+    {
+        "pnr": 37,
+        "hnr": 37,
+        "beginndatum": "2022-05-17",
+        "dauer": "05:56 am",
+        "kosten": "8.190,82 €"
+    },
+    {
+        "pnr": 38,
+        "hnr": 38,
+        "beginndatum": "2022-02-02",
+        "dauer": "06:15 pm",
+        "kosten": "6.142,20 €"
+    },
+    {
+        "pnr": 39,
+        "hnr": 39,
+        "beginndatum": "2022-03-14",
+        "dauer": "06:25 am",
+        "kosten": "6.755,83 €"
+    },
+    {
+        "pnr": 40,
+        "hnr": 40,
+        "beginndatum": "2021-07-17",
+        "dauer": "03:56 pm",
+        "kosten": "889,77 €"
+    },
+    {
+        "pnr": 41,
+        "hnr": 41,
+        "beginndatum": "2022-05-12",
+        "dauer": "10:29 am",
+        "kosten": "8.511,36 €"
+    },
+    {
+        "pnr": 42,
+        "hnr": 42,
+        "beginndatum": "2021-07-23",
+        "dauer": "03:57 am",
+        "kosten": "7.070,22 €"
+    },
+    {
+        "pnr": 43,
+        "hnr": 43,
+        "beginndatum": "2022-04-03",
+        "dauer": "07:43 pm",
+        "kosten": "5.278,10 €"
+    },
+    {
+        "pnr": 44,
+        "hnr": 44,
+        "beginndatum": "2022-01-23",
+        "dauer": "12:11 pm",
+        "kosten": "9.523,11 €"
+    },
+    {
+        "pnr": 45,
+        "hnr": 45,
+        "beginndatum": "2021-12-18",
+        "dauer": "06:20 pm",
+        "kosten": "5.486,98 €"
+    },
+    {
+        "pnr": 46,
+        "hnr": 46,
+        "beginndatum": "2022-02-27",
+        "dauer": "07:14 am",
+        "kosten": "8.449,37 €"
+    },
+    {
+        "pnr": 47,
+        "hnr": 47,
+        "beginndatum": "2021-12-31",
+        "dauer": "08:21 am",
+        "kosten": "7.323,79 €"
+    },
+    {
+        "pnr": 48,
+        "hnr": 48,
+        "beginndatum": "2022-01-10",
+        "dauer": "03:25 am",
+        "kosten": "5.432,71 €"
+    },
+    {
+        "pnr": 49,
+        "hnr": 49,
+        "beginndatum": "2021-09-14",
+        "dauer": "02:58 am",
+        "kosten": "7.293,65 €"
+    },
+    {
+        "pnr": 50,
+        "hnr": 50,
+        "beginndatum": "2021-12-09",
+        "dauer": "05:56 pm",
+        "kosten": "7.386,65 €"
+    },
+    {
+        "pnr": 51,
+        "hnr": 51,
+        "beginndatum": "2022-04-13",
+        "dauer": "08:01 pm",
+        "kosten": "9.186,59 €"
+    },
+    {
+        "pnr": 52,
+        "hnr": 52,
+        "beginndatum": "2021-09-29",
+        "dauer": "06:00 pm",
+        "kosten": "3.200,51 €"
+    },
+    {
+        "pnr": 53,
+        "hnr": 53,
+        "beginndatum": "2022-02-13",
+        "dauer": "06:18 am",
+        "kosten": "1.735,36 €"
+    },
+    {
+        "pnr": 54,
+        "hnr": 54,
+        "beginndatum": "2022-04-22",
+        "dauer": "10:46 am",
+        "kosten": "9.815,84 €"
+    },
+    {
+        "pnr": 55,
+        "hnr": 55,
+        "beginndatum": "2022-03-30",
+        "dauer": "03:29 am",
+        "kosten": "3.491,67 €"
+    },
+    {
+        "pnr": 56,
+        "hnr": 56,
+        "beginndatum": "2021-10-26",
+        "dauer": "07:03 pm",
+        "kosten": "2.885,08 €"
+    },
+    {
+        "pnr": 57,
+        "hnr": 57,
+        "beginndatum": "2021-06-18",
+        "dauer": "01:15 am",
+        "kosten": "4.863,94 €"
+    },
+    {
+        "pnr": 58,
+        "hnr": 58,
+        "beginndatum": "2021-11-04",
+        "dauer": "07:55 pm",
+        "kosten": "5.785,02 €"
+    },
+    {
+        "pnr": 59,
+        "hnr": 59,
+        "beginndatum": "2022-05-02",
+        "dauer": "12:35 am",
+        "kosten": "3.964,20 €"
+    },
+    {
+        "pnr": 60,
+        "hnr": 60,
+        "beginndatum": "2022-05-30",
+        "dauer": "04:00 pm",
+        "kosten": "5.461,00 €"
+    },
+    {
+        "pnr": 61,
+        "hnr": 61,
+        "beginndatum": "2021-08-22",
+        "dauer": "10:12 am",
+        "kosten": "8.681,25 €"
+    },
+    {
+        "pnr": 62,
+        "hnr": 62,
+        "beginndatum": "2021-06-18",
+        "dauer": "03:56 am",
+        "kosten": "6.550,01 €"
+    },
+    {
+        "pnr": 63,
+        "hnr": 63,
+        "beginndatum": "2021-07-13",
+        "dauer": "03:13 pm",
+        "kosten": "5.861,05 €"
+    },
+    {
+        "pnr": 64,
+        "hnr": 64,
+        "beginndatum": "2022-03-19",
+        "dauer": "07:22 am",
+        "kosten": "7.247,29 €"
+    },
+    {
+        "pnr": 65,
+        "hnr": 65,
+        "beginndatum": "2021-07-06",
+        "dauer": "01:03 pm",
+        "kosten": "2.067,42 €"
+    },
+    {
+        "pnr": 66,
+        "hnr": 66,
+        "beginndatum": "2021-09-26",
+        "dauer": "06:46 pm",
+        "kosten": "6.138,80 €"
+    },
+    {
+        "pnr": 67,
+        "hnr": 67,
+        "beginndatum": "2021-09-07",
+        "dauer": "01:06 pm",
+        "kosten": "5.708,31 €"
+    },
+    {
+        "pnr": 68,
+        "hnr": 68,
+        "beginndatum": "2021-10-06",
+        "dauer": "06:37 am",
+        "kosten": "5.031,88 €"
+    },
+    {
+        "pnr": 69,
+        "hnr": 69,
+        "beginndatum": "2021-10-20",
+        "dauer": "12:55 pm",
+        "kosten": "5.144,75 €"
+    },
+    {
+        "pnr": 70,
+        "hnr": 70,
+        "beginndatum": "2022-05-30",
+        "dauer": "11:50 pm",
+        "kosten": "6.996,70 €"
+    },
+    {
+        "pnr": 71,
+        "hnr": 71,
+        "beginndatum": "2022-05-14",
+        "dauer": "03:42 pm",
+        "kosten": "2.409,15 €"
+    }
+]

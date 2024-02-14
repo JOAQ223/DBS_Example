@@ -1,0 +1,289 @@
+[
+    {
+        "hnr": 0,
+        "hname": "Jakubczyk",
+        "kategorie": "cupidatat mollit exercitation esse exercitation",
+        "plz": "84152",
+        "ort": "Podgorica"
+    },
+    {
+        "hnr": 1,
+        "hname": "Bartels",
+        "kategorie": "irure culpa esse nisi",
+        "plz": "54668",
+        "ort": "Cockburn Town"
+    },
+    {
+        "hnr": 2,
+        "hname": "Hechler",
+        "kategorie": "qui ullamco sunt labore incididunt minim",
+        "plz": "97222",
+        "ort": "Mbuyapey"
+    },
+    {
+        "hnr": 3,
+        "hname": "Klopsch",
+        "kategorie": "reprehenderit sunt dolore amet",
+        "plz": "63589",
+        "ort": "Quinhámel"
+    },
+    {
+        "hnr": 4,
+        "hname": "Daimer",
+        "kategorie": "esse adipisicing culpa exercitation commodo voluptate mollit sit",
+        "plz": "42653",
+        "ort": "Ribah"
+    },
+    {
+        "hnr": 5,
+        "hname": "Laux",
+        "kategorie": "deserunt nisi non elit exercitation officia officia",
+        "plz": "31683",
+        "ort": "Tutong"
+    },
+    {
+        "hnr": 6,
+        "hname": "Rose",
+        "kategorie": "irure velit aliqua cupidatat",
+        "plz": "93099",
+        "ort": "Kaputan"
+    },
+    {
+        "hnr": 7,
+        "hname": "Kock",
+        "kategorie": "veniam anim sint commodo ea",
+        "plz": "99338",
+        "ort": "Brades"
+    },
+    {
+        "hnr": 8,
+        "hname": "Seidel",
+        "kategorie": "reprehenderit eiusmod ut laborum aliqua aliquip minim",
+        "plz": "54689",
+        "ort": "West Island"
+    },
+    {
+        "hnr": 9,
+        "hname": "Ahlke",
+        "kategorie": "et duis consectetur tempor ad nostrud",
+        "plz": "65623",
+        "ort": "San Martín"
+    },
+    {
+        "hnr": 10,
+        "hname": "Urbaniak",
+        "kategorie": "excepteur occaecat incididunt ut deserunt anim enim",
+        "plz": "08485",
+        "ort": "Ban Phaeo"
+    },
+    {
+        "hnr": 11,
+        "hname": "Birkemeyer",
+        "kategorie": "exercitation minim excepteur officia elit",
+        "plz": "67065",
+        "ort": "Mutum Biyu"
+    },
+    {
+        "hnr": 12,
+        "hname": "Holl",
+        "kategorie": "cupidatat dolore exercitation ad",
+        "plz": "58456",
+        "ort": "Little Cayman"
+    },
+    {
+        "hnr": 13,
+        "hname": "Raabe",
+        "kategorie": "enim aliqua officia ea incididunt",
+        "plz": "82349",
+        "ort": "Mayumba"
+    },
+    {
+        "hnr": 14,
+        "hname": "Hoffmann",
+        "kategorie": "sit exercitation dolore non excepteur occaecat et",
+        "plz": "14167",
+        "ort": "Naro Moru"
+    },
+    {
+        "hnr": 15,
+        "hname": "Hasse",
+        "kategorie": "eiusmod quis pariatur ad duis aliquip",
+        "plz": "88639",
+        "ort": "Newcastle"
+    },
+    {
+        "hnr": 16,
+        "hname": "Diedrich",
+        "kategorie": "voluptate sit cupidatat pariatur sit fugiat",
+        "plz": "92729",
+        "ort": "Inhambane"
+    },
+    {
+        "hnr": 17,
+        "hname": "Lg",
+        "kategorie": "aliqua sit sint sit",
+        "plz": "97786",
+        "ort": "Alindao"
+    },
+    {
+        "hnr": 18,
+        "hname": "Kruger",
+        "kategorie": "et nulla amet aliqua dolor sit",
+        "plz": "59597",
+        "ort": "Triesen"
+    },
+    {
+        "hnr": 19,
+        "hname": "Schreck",
+        "kategorie": "aliquip ut dolore minim commodo exercitation adipisicing",
+        "plz": "81545",
+        "ort": "Bissau"
+    },
+    {
+        "hnr": 20,
+        "hname": "Hübner",
+        "kategorie": "sit sint dolore sint",
+        "plz": "97209",
+        "ort": "Manning"
+    },
+    {
+        "hnr": 21,
+        "hname": "Jasinski",
+        "kategorie": "nisi id do elit amet anim",
+        "plz": "94554",
+        "ort": "Domagnano"
+    },
+    {
+        "hnr": 22,
+        "hname": "Belz",
+        "kategorie": "do Lorem laboris aute est aliqua enim nulla",
+        "plz": "22967",
+        "ort": "Seydi"
+    },
+    {
+        "hnr": 23,
+        "hname": "Knobel",
+        "kategorie": "cupidatat non incididunt amet enim",
+        "plz": "85354",
+        "ort": "Vaini"
+    },
+    {
+        "hnr": 24,
+        "hname": "Ringel",
+        "kategorie": "in eu nisi cupidatat qui cillum",
+        "plz": "88147",
+        "ort": "Chiroqchi Shahri"
+    },
+    {
+        "hnr": 25,
+        "hname": "Cronjäger",
+        "kategorie": "nostrud Lorem qui officia",
+        "plz": "60549",
+        "ort": "Oneop"
+    },
+    {
+        "hnr": 26,
+        "hname": "Helm",
+        "kategorie": "quis deserunt pariatur aliquip anim excepteur",
+        "plz": "40211",
+        "ort": "Lower Prince’s Quarter"
+    },
+    {
+        "hnr": 27,
+        "hname": "Gesell",
+        "kategorie": "duis reprehenderit culpa reprehenderit",
+        "plz": "54486",
+        "ort": "Apam"
+    },
+    {
+        "hnr": 28,
+        "hname": "Eberhardt",
+        "kategorie": "nostrud amet anim quis cillum et irure",
+        "plz": "60488",
+        "ort": "Dorcheh Pīāz"
+    },
+    {
+        "hnr": 29,
+        "hname": "Abraham",
+        "kategorie": "deserunt quis labore occaecat mollit officia",
+        "plz": "72820",
+        "ort": "Port Elizabeth"
+    },
+    {
+        "hnr": 30,
+        "hname": "Lichtenfeld",
+        "kategorie": "occaecat in sint consequat consequat minim",
+        "plz": "84539",
+        "ort": "Eckerö"
+    },
+    {
+        "hnr": 31,
+        "hname": "Bönisch",
+        "kategorie": "qui et amet exercitation",
+        "plz": "63694",
+        "ort": "Les Trois-Îlets"
+    },
+    {
+        "hnr": 32,
+        "hname": "Kron",
+        "kategorie": "dolore ut duis dolore Lorem fugiat occaecat nostrud",
+        "plz": "16321",
+        "ort": "Sunyani"
+    },
+    {
+        "hnr": 33,
+        "hname": "Schniedermeier",
+        "kategorie": "laboris ea ea mollit cupidatat commodo consequat laborum",
+        "plz": "14662",
+        "ort": "Krychaw"
+    },
+    {
+        "hnr": 34,
+        "hname": "Höhne",
+        "kategorie": "ut dolor proident aliquip pariatur ipsum adipisicing commodo",
+        "plz": "47661",
+        "ort": "McMurdo Station"
+    },
+    {
+        "hnr": 35,
+        "hname": "Abt",
+        "kategorie": "mollit consequat nisi adipisicing eiusmod ut minim est",
+        "plz": "72189",
+        "ort": "Guraidhoo"
+    },
+    {
+        "hnr": 36,
+        "hname": "Brand",
+        "kategorie": "et laborum est enim aliqua",
+        "plz": "04880",
+        "ort": "Ambo Village"
+    },
+    {
+        "hnr": 37,
+        "hname": "Stepanov",
+        "kategorie": "voluptate cupidatat mollit et minim eu sunt",
+        "plz": "38170",
+        "ort": "Gobojango"
+    },
+    {
+        "hnr": 38,
+        "hname": "Wachenbrunner",
+        "kategorie": "minim laboris ut nisi nulla ipsum reprehenderit excepteur",
+        "plz": "54498",
+        "ort": "Beuningen"
+    },
+    {
+        "hnr": 39,
+        "hname": "Strausa",
+        "kategorie": "incididunt cillum ipsum excepteur exercitation aute consequat",
+        "plz": "49626",
+        "ort": "Singapore"
+    },
+    {
+        "hnr": 40,
+        "hname": "Sattelmaier",
+        "kategorie": "tempor in est dolore aute minim sit",
+        "plz": "96197",
+        "ort": "Mokil"
+    }
+]

@@ -1,0 +1,24 @@
+
+b. Erklärungen einzelner Relationen und Designentscheidungen.
+
+c. Die SQL-Abfragen mit Screenshots der Ergebnisse auf Ihrer Datenbank.
+
+d. Selbstkritische Diskussion der möglichen Schwächen Ihres Modells bzw. Erweiterungsmöglichkeiten (2 - 3 Stichpunkte)
+
+
+e. Ggf. eine Beschreibung und Erklärung Ihrer Erweiterung.
+
+f. Einen Dump / Export Ihrer Datenbank samt Testdaten als .sql-Datei.
+
+
+b.  Gesndheitsamt ist eine Etientität ,Er hat Mitarbeiter (Relation durch R-Typ) ,die Augaben der Mitarbeiter sind z.B. Quarantäne Kontrolle,und verhängt die 
+    Einschränkungen.
+
+    der Buerger (Etientität) geht in (Relation) Quarantäne (Etientität) wenn er/sie Covid hat und er/sie muss an der Einschränkungen (Etientität) halten ,sonst der Mitarbeiter verhängt Bußgeld im Fall von Verstoß.
+    der Buerger geht zum (Relation) Testzentrum (Etientität) und macht ein Test (Etientität) , und/oder geht zum Impfzentrum (Etientität) und lässt sich impfen , Impfung und Impfstoff sind Etientitäten .
+
+
+d.  
+    Der sematische Datenmodel wurde als ERM erstell ,da es leichter zu verfolgen und gut für Beginner(Beginnung mit DBS) ,allerdings enthält Paar Schwäche 
+    wie z.B. die Schwierigkeiten mit der Implemeniertung zum relationalen Datamodel ,(Fremdschlssel in extra Tabelle zu legen statt Referezierung).
+    Aber bleibt das Model leichter zu verfolgen und leichter mit Fehler Entdeckung.
